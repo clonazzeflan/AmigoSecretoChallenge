@@ -1,2 +1,2 @@
 # AmigoSecretoChallenge
-Challenge de amigo secrto, proporcioando por One de Allura
+Challenge de amigo secreto, proporcioando por One de Allura
