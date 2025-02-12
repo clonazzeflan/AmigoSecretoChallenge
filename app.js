@@ -51,7 +51,7 @@
     function sortearAmigo(){
     
         if (listaAmigos.length === 0) { 
-            alert("Primero debes ingresar nombres a la lista para realizar el");
+            alert("Primero debes ingresar nombres a la lista para realizar el sorteo.");
             return
         } else {
             amigoSeleccionado = Math.floor(Math.random() * listaAmigos.length);
