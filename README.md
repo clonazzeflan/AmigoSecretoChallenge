@@ -1,2 +1,4 @@
 # AmigoSecretoChallenge
-Challenge de amigo secreto, proporcioando por One de Allura
+Challenge de amigo secreto, proporcionado por One de Allura.
+
+Estado: Terminado.
